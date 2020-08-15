@@ -1,0 +1,25 @@
+.red {
+    color: red;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .navbar-container {
+    background-color: #3a069b;
+    font-size: 1.5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    height: 6rem;
+    font-size: 2rem;
+  
+  }
+  
+  .nav-title {
+    font-size: 2.5rem;
+  }
+  
+  .navbar-light .navbar-text {
+    color: white;
+  }
