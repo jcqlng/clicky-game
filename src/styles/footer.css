@@ -1,0 +1,16 @@
+.footer-title {
+    background-color: #3a069b;
+    height: 2rem;
+    color: white;
+  }
+  
+  .footer-bar {
+    margin-top: 2rem;
+    background-color: #864fec;
+    height: 3rem;
+  }
+  
+  h5 {
+    padding-left: 1rem;
+    padding-top: 5px;
+  }
