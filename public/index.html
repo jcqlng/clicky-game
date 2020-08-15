@@ -1,43 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+  <title>Clicky Game!</title>
+  <link rel="stylesheet"
+    href="https://d33wubrfki0l68.cloudfront.net/css/ba81d45f1eb54096e2d1717c5edcbf3af9a19812/static/css/main.269f401f.css">
+</head>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+<body cz-shortcut-listen="true">
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <script>"http:" === window.location.protocol && (window.location.protocol = "https:")</script>
+  <div id="root">
+    <div>
+      <nav class="navbar">
+        <ul>
+          <li class="brand">
+            <a href="/">Clicky Game</a>
+          </li>
+          <li class="">Click an image to begin!</li>
+          <li>Score: 0 | Top Score: 0</li>
+        </ul>
+      </nav>
+      <header class="header">
+        <h1>Clicky Game!</h1>
+        <h2>Click on an image to earn points, but don't click on any more than once!</h2>
+      </header>
+      <main class="container">
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/birdperson.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/goldenford.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/jerry.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/rick.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/jessica.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/meeseeks.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/evilmorty.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/mr.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/beth.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/gianthead.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/summer.png&quot;);"></div>
+        <div role="img" aria-label="click item" class="click-item"
+          style="background-image: url(&quot;/assets/images/morty.png&quot;);"></div>
+      </main>
+      <footer class="footer">
+        <div class="bottom">Clicky Game! <img alt="react" src="assets/images/react.svg"></div>
+      </footer>
+    </div>
+  </div>
+  <script type="text/javascript"src="https://d33wubrfki0l68.cloudfront.net/js/69e9b48b853348cbee160b0699b939e7877c9e64/static/js/main.322bad46.js"></script>
+</body>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
 </html>
