@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "name": "Miss Piggy",
-      "image": "./assets/images/MissPiggy.jpg"
+      "name": "Zelda",
+      "image": "./assets/images/zelda.jpg"
     },
     {
       "id": 2,
-      "name": "Kermit the Frog",
-      "image": "./assets/images/Kermit_the_Frog.jpg"
+      "name": "Tingle",
+      "image": "./assets/images/tingle.jpg"
     },
     {
       "id": 3,
-      "name": "Gonzo",
-      "image": "./assets/images/Gonzo_the_Great.jpg"
+      "name": "Skull Kid",
+      "image": "./assets/images/skull.jpg"
     },
     {
       "id": 4,
-      "name": "The Swedish Chef",
-      "image": "./assets/images/The_Swedish_Chef.jpg"
+      "name": "Sidon",
+      "image": "./assets/images/sidon.jpg"
     },
     {
       "id": 5,
-      "name": "Fozzie Bear",
-      "image": "./assets/images/Fozzie_Bear.jpg"
+      "name": "Shiek",
+      "image": "./assets/images/shiek.jpg"
     },
     {
       "id": 6,
-      "name": "Beaker",
-      "image": "./assets/images/Beaker.jpg"
+      "name": "Navi",
+      "image": "./assets/images/navi.jpg"
     },
     {
       "id": 7,
-      "name": "Rowlf the Dog",
-      "image": "./assets/images/Rowlf_the_Dog.jpg"
+      "name": "Midna",
+      "image": "./assets/images/midna.jpg"
     },
     {
       "id": 8,
-      "name": "Pepé the King Prawn",
-      "image": "./assets/images/Pepe_the_King_Prawn.jpg"
+      "name": "Link",
+      "image": "./assets/images/link.jpg"
     },
     {
       "id": 9,
-      "name": "Scooter",
-      "image": "./assets/images/ScooterMuppet.jpg"
+      "name": "Linebeck",
+      "image": "./assets/images/linebeck.jpg"
     },
     {
       "id": 10,
-      "name": "Statler and Waldorf",
-      "image": "./assets/images/Statler_and_Waldorf.jpg"
+      "name": "King of Red Lions",
+      "image": "./assets/images/krd.jpg"
     },
     {
       "id": 11,
-      "name": "Honeydew",
-      "image": "./assets/images/Dr._Bunsen_Honeydew.jpg"
+      "name": "Impa",
+      "image": "./assets/images/impa.jpg"
     },
     {
       "id": 12,
-      "name": "Sam the Eagle",
-      "image": "./assets/images/SamTheEagle.jpg"
+      "name": "Ganondorf",
+      "image": "./assets/images/ganondorf.jpg"
     }
   ]
