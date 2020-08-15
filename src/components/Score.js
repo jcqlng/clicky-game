@@ -7,7 +7,7 @@ class Score extends React.Component {
   constructor(props, context) {
     super(props, context);
 
-    // Convert to arrow funtions
+    // Convert to arrow functions
     this.handleShow = this.handleShow.bind(this);
     this.handleClose = this.handleClose.bind(this);
 

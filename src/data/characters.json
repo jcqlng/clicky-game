@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Miss Piggy",
+      "image": "./assets/images/MissPiggy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kermit the Frog",
+      "image": "./assets/images/Kermit_the_Frog.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gonzo",
+      "image": "./assets/images/Gonzo_the_Great.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Swedish Chef",
+      "image": "./assets/images/The_Swedish_Chef.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fozzie Bear",
+      "image": "./assets/images/Fozzie_Bear.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Beaker",
+      "image": "./assets/images/Beaker.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Rowlf the Dog",
+      "image": "./assets/images/Rowlf_the_Dog.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pepé the King Prawn",
+      "image": "./assets/images/Pepe_the_King_Prawn.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Scooter",
+      "image": "./assets/images/ScooterMuppet.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Statler and Waldorf",
+      "image": "./assets/images/Statler_and_Waldorf.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Honeydew",
+      "image": "./assets/images/Dr._Bunsen_Honeydew.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sam the Eagle",
+      "image": "./assets/images/SamTheEagle.jpg"
+    }
+  ]
