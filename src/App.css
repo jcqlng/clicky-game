@@ -3,17 +3,16 @@
 
 }
 
-h1,
-h2 {
+h1,h2 {
   text-align: center;
-  background-color: grey;
-  color: white;
+  background-color: white;
+  color: blue;
 
 }
 
 h1 {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
   margin-bottom: 0;
   font-size: 4.5rem;
 }

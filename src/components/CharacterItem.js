@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/characterItem.css";
 
 const CharacterItem = props => {
-  // Destructure props
+  // Destructor props
   const { image, id, name } = props.character;
 
   return (
