@@ -1,68 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🧠 Zelda Clicky Game 🧠
+An app that tests your memory!!
 
-## Available Scripts
+## 📝 Description 📝
+Link to the application: 
 
-In the project directory, you can run:
+In this app you will see 12 cards that have characters from a favorite game of mine, The Legend of Zelda. The purpose of the game is to test your memory by allowing you to click on a card. Once the card is clicked, they shuffle out of order and you will click on a different card each click. You can not choose the same card or it will be considered a loss and you will get a "Game over" pop-up and restarts the game once okay is clicked. 
 
-### `npm start`
+## 🖥️ Deployment on Heroku 🖥️
+Prerequisite: If you haven't done so yet, create an account on [Heroku](https://signup.heroku.com/).
+1. Create a web app on Heroku named clickygame-(your initials)
+2. Once the app is created, it will go to the Deploy tab where you can connect to your GitHub and use the forked app.
+3. I recommend a manual deploy from your master branch. You will then click deploy. You should receive a message stating "build succeeded"
+4. Go to your overview and click on "config add ons".
+5. Type in Jaws DB and add that as your config.
+6. Go back into the code and go to your config.js and make sure the production shows the following:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ⛓️ Technologies and Dependencies ⛓️
+👾 NPM packages:
+    -- [NPM I](https://www.npmjs.com/package/npm-install)
+    -- [gh-pages](https://www.npmjs.com/package/gh-pages)
+👾 JavaScript
+👾 HTML / CSS / Bootstrap / Bootswatch
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## 🔗 Resources and Links 🔗
+💻 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+💻 [React documentation](https://reactjs.org/)
+💻 [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+💻 [Create React App](https://github.com/facebook/create-react-app)
+💻 [running NPM tests](https://facebook.github.io/create-react-app/docs/running-tests)
+💻 Helpful [DEV article](https://dev.to/lucvankerkvoort/react-memory-game-2ep9)
+💻 [Babel](https://babeljs.io/docs/en/)
+💻 [Components and Props](https://reactjs.org/docs/components-and-props.html#es6-classes)
+💻 [JSX](https://reactjs.org/docs/introducing-jsx.html)
