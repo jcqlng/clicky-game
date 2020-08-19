@@ -1,8 +1,11 @@
+<h1 align="center">
+ <img src="Zbanner.png" />
+</h1>
 # 🧠 Zelda Clicky Game 🧠
 An app that tests your memory!!
 
 ## 📝 Description 📝
-Link to the application: 
+Link to the application: https://jcqlng.github.io/clicky-game/
 
 In this app you will see 12 cards that have characters from a favorite game of mine, The Legend of Zelda. The purpose of the game is to test your memory by allowing you to click on a card. Once the card is clicked, they shuffle out of order and you will click on a different card each click. You can not choose the same card or it will be considered a loss and you will get a "Game over" pop-up and restarts the game once okay is clicked. 
 
