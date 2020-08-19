@@ -23,12 +23,12 @@ Prerequisite: If you haven't done so yet, create an account on [Heroku](https://
 👾 HTML / CSS / Bootstrap / Bootswatch
 
 ## 🔗 Resources and Links 🔗
-💻 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-💻 [React documentation](https://reactjs.org/)
-💻 [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
-💻 [Create React App](https://github.com/facebook/create-react-app)
-💻 [running NPM tests](https://facebook.github.io/create-react-app/docs/running-tests)
-💻 Helpful [DEV article](https://dev.to/lucvankerkvoort/react-memory-game-2ep9)
-💻 [Babel](https://babeljs.io/docs/en/)
-💻 [Components and Props](https://reactjs.org/docs/components-and-props.html#es6-classes)
-💻 [JSX](https://reactjs.org/docs/introducing-jsx.html)
+* 💻 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+* 💻 [React documentation](https://reactjs.org/)
+* 💻 [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* 💻 [Create React App](https://github.com/facebook/create-react-app)
+* 💻 [running NPM tests](https://facebook.github.io/create-react-app/docs/running-tests)
+* 💻 Helpful [DEV article](https://dev.to/lucvankerkvoort/react-memory-game-2ep9)
+* 💻 [Babel](https://babeljs.io/docs/en/)
+* 💻 [Components and Props](https://reactjs.org/docs/components-and-props.html#es6-classes)
+* 💻 [JSX](https://reactjs.org/docs/introducing-jsx.html)
