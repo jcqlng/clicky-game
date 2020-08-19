@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://jcqlng.github.io/clicky-game/">
+    <img width=100% src="/public/assets/images/Zbanner.png">
+  </a>
+</p>
 # 🧠 Zelda Clicky Game 🧠
 An app that tests your memory!!
 
