@@ -1,6 +1,3 @@
-<h1 align="center">
- <img src="Zbanner.png" />
-</h1>
 # 🧠 Zelda Clicky Game 🧠
 An app that tests your memory!!
 
